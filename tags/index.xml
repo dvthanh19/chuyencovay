@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Nhãn dán on Chuyện Có Vậy</title>
+    <link>https://dvthanh19.github.io/chuyencovay/tags/</link>
+    <description>Recent content in Nhãn dán on Chuyện Có Vậy</description>
+    <generator>Hugo -- 0.154.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Jan 2026 20:53:47 +0700</lastBuildDate>
+    <atom:link href="https://dvthanh19.github.io/chuyencovay/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#Chuyen_xam_xi</title>
+      <link>https://dvthanh19.github.io/chuyencovay/tags/%23chuyen_xam_xi/</link>
+      <pubDate>Fri, 23 Jan 2026 20:53:47 +0700</pubDate>
+      <guid>https://dvthanh19.github.io/chuyencovay/tags/%23chuyen_xam_xi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#Tam_su</title>
+      <link>https://dvthanh19.github.io/chuyencovay/tags/%23tam_su/</link>
+      <pubDate>Thu, 01 Jan 2026 19:09:03 +0700</pubDate>
+      <guid>https://dvthanh19.github.io/chuyencovay/tags/%23tam_su/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>#Thanh</title>
+      <link>https://dvthanh19.github.io/chuyencovay/tags/%23thanh/</link>
+      <pubDate>Thu, 01 Jan 2026 19:09:03 +0700</pubDate>
+      <guid>https://dvthanh19.github.io/chuyencovay/tags/%23thanh/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

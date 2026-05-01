@@ -6,8 +6,15 @@
     <description>Recent content on Chuyện Có Vậy</description>
     <generator>Hugo -- 0.154.5</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Jan 2026 20:53:47 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 19:09:03 +0700</lastBuildDate>
     <atom:link href="https://dvthanh19.github.io/chuyencovay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Những thứ khoảng cách trên đời</title>
+      <link>https://dvthanh19.github.io/chuyencovay/stories/nhung_thu_khoang_cach_tren_doi/</link>
+      <pubDate>Sat, 25 Apr 2026 19:09:03 +0700</pubDate>
+      <guid>https://dvthanh19.github.io/chuyencovay/stories/nhung_thu_khoang_cach_tren_doi/</guid>
+      <description>...</description>
+    </item>
     <item>
       <title>Chuyện đi làm của con mèo</title>
       <link>https://dvthanh19.github.io/chuyencovay/stories/chuyen_di_lam_cua_con_meo/</link>
@@ -21,6 +28,13 @@
       <pubDate>Thu, 01 Jan 2026 19:09:03 +0700</pubDate>
       <guid>https://dvthanh19.github.io/chuyencovay/others/tai_sao_minh_viet/</guid>
       <description>Mình viết cho nhiều điều, cho mình và cho bạn.</description>
+    </item>
+    <item>
+      <title>Tại sao mình viết</title>
+      <link>https://dvthanh19.github.io/chuyencovay/search/benle/</link>
+      <pubDate>Thu, 01 Jan 2026 19:09:03 +0700</pubDate>
+      <guid>https://dvthanh19.github.io/chuyencovay/search/benle/</guid>
+      <description>...</description>
     </item>
   </channel>
 </rss>
